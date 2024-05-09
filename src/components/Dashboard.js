@@ -11,7 +11,7 @@ const Dashboard = () => {
       <p className="text-black font-bold text-2xl flex justify-center mt-4 p-1">Please mark your Interests</p>
       <p className='text-black  text-xl flex justify-center'>We will keep you notified</p>
       <p className='text-black  text-xl flex  m-2 p-2'>My saved interests!</p>
-      <form className=' m-1 p-1 text-black font-bold'>
+      <form className=' m-2 p-2 text-black font-bold'>
           <div>
             <input type="checkbox" id="shoes" name="category" value="shoes" checked />
             <label htmlFor="shoes">Shoes</label>
